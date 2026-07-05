@@ -1,0 +1,4 @@
+name: SENATOROV
+channels:
+  - defaults
+prefix: /home/olehp/.conda/envs/SENATOROV
