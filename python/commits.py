@@ -34,4 +34,5 @@
 # Сделайте фиктивный коммит с типом test, добавляющий тесты для этой же функции.
 #
 # Ответ: git commit -m "docs: added new docs for func X"
+#
 #        git commit -m "test: added tests for func X"
