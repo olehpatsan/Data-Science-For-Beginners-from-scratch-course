@@ -36,3 +36,5 @@
 # Ответ: git commit -m "docs: added new docs for func X"
 #
 #        git commit -m "test: added tests for func X"
+#
+#
