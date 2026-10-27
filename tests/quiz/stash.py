@@ -7,8 +7,8 @@
 #
 # 2. Как просмотреть список всех сохранённых изменений (стэшей)?
 #
-# Ответ: Выполнить git stash list. В интерфейсе GitHub Desktop можно открыть
-# Source Control и выбрать Stash -> View Stash.
+# Ответ: Выполнить git stash list. В VS Code список стэшей можно увидеть в
+# панели Source Control, в разделе Stashes.
 #
 # 3. Какая команда применяется для использования верхнего стэша?
 #
@@ -88,4 +88,3 @@
 # Ответ: git stash clear
 #
 # ![Clearing the stash list](images/stash-clear.png)
-#
