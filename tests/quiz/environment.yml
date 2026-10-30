@@ -1,0 +1,12 @@
+name: SENATOROV
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+      - ipykernel==6.29.5
+      - jupyter==1.0.0
+      - matplotlib==3.8.4
+      - numpy==1.26.4
+      - pandas==2.2.2
